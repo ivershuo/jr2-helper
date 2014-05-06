@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@marvin:prj/jsonrpc.git"
+    "url": "git@github.com:ivershuo/jr2-helper.git"
   },
   "keywords": [
     "json-rpc"
