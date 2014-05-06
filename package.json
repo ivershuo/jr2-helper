@@ -1,0 +1,18 @@
+{
+  "name": "jr2-helper",
+  "version": "0.0.1",
+  "description": "A JSON-RPC 2.0 Helper",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@marvin:prj/jsonrpc.git"
+  },
+  "keywords": [
+    "json-rpc"
+  ],
+  "author": "ivershuo",
+  "license": "MIT"
+}
